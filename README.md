@@ -4,7 +4,8 @@
 
 **Project Status: Currently in Development**  
 - The system is functional but undergoing improvements for better interaction, accuracy, and handling of coding tasks.  
-- Upcoming features include **fine-tuning the model specifically for solving LeetCode problems** to enhance accuracy and efficiency.  
+- Upcoming features include **fine-tuning the model specifically for solving LeetCode problems** to enhance accuracy and efficiency.
+- **Demo Link:** [Try CodeExcellence Here!](https://code-excellence.streamlit.app/)   
 
 ---
 
