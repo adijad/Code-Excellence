@@ -1,0 +1,6 @@
+langchain
+gradio
+streamlit
+transformers
+torch
+streamlit-lottie
